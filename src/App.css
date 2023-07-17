@@ -1,0 +1,114 @@
+.mainn{
+  background-image: linear-gradient(rgb(0, 162, 255),rgb(255, 192, 255));
+  width: 100%;
+  height: 700px;
+  padding: 0px;
+
+}
+h1{
+ text-shadow: 2px 2px aqua;
+ position: absolute;
+ left: 550px;
+ font-size: 50px;
+ top: -20px;
+}
+.Lname{
+ position: absolute;
+ left: 600px;
+ top:110px;
+ font-size: 40px;
+ font-family:sans-serif
+
+
+
+}
+#name{
+  position: absolute;
+  top: 110px;
+  left: 720px;
+  height: 50px;
+  width: 250px;
+  border-radius: 25px;
+  background-color: rgb(100, 237, 180);
+  font-size: 25px;
+  font-family:sans-serif
+}
+.Ldept{
+  position: absolute;
+ left: 600px;
+ top: 180px;
+ font-size: 40px;
+ font-family:sans-serif
+
+}
+#dept{
+  position: absolute;
+  top: 180px;
+  left: 820px;
+  height: 50px;
+  width: 250px;
+  border-radius: 25px;
+  background-color: rgb(100, 237, 180);
+  font-size: 25px;
+  font-family:sans-serif
+
+
+}
+.Lrating{
+  position: absolute;
+ left: 600px;
+ top: 250px;
+ font-size: 40px;
+ font-family:sans-serif
+
+}
+#rating{
+  position: absolute;
+  top: 250px;
+  left: 750px;
+  height: 50px;
+  width: 250px;
+  border-radius: 25px;
+  background-color: rgb(100, 237, 180);
+  font-size: 25px;
+  font-family:sans-serif
+
+
+}
+button{
+  position: absolute;
+  top: 320px;
+  left: 600px;
+  height: 50px;
+  width: 250px;
+  border-radius: 25px;
+  background-color: rgb(100, 237, 180);
+  font-size: 25px;
+  font-family:sans-serif
+}
+.result{
+   padding: 40px; 
+  display: flex;
+  flex-direction: row;
+  justify-content:left;
+ flex-wrap: wrap;
+gap: 50px;
+ background-color: rgb(0, 162, 250);
+}
+.Fresult{
+  position: relative;
+  font-size: 25px;
+  border-radius: 25px;
+  /* height: 150px;
+  width: 200px; */
+  border: 1px solid black;
+  background-color: blueviolet ;
+  margin: 50px;
+  /* box-sizing: border-box; */
+  padding: 20px;  
+  /* top: 50px; */
+  
+
+
+
+}
